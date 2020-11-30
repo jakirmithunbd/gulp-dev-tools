@@ -1,0 +1,5 @@
+config.codekit3
+.history/
+node_modules/.bin/apartment.cmd
+node_modules/
+*.orig
